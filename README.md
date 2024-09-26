@@ -15,5 +15,3 @@ Etudiant 4 : [Jules CLERC-VOUILLOT](mailto:jules.clerc-vouillot@edu.univ-fcomte.
 
 Notre projet constiste à faire la présentation de l'entreprise françaaise : Capgemini. 
 Avec plusieurs pages de présentation dont l'histoire de l'entreprise, son économie, ses projets ...
-
-https://ludodecker10.github.io/Capgemini/
