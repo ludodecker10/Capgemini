@@ -1,6 +1,6 @@
 # Présentation Capgemini    
 
-## Capgemnini 
+## Capgemini
 
 [Présentation Capgemini](https://ludodecker10.github.io/projet/)
 
