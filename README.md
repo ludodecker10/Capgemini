@@ -13,5 +13,6 @@ Etudiant 4 : [Jules CLERC-VOUILLOT](mailto:jules.clerc-vouillot@edu.univ-fcomte.
 
 # Présentation du projet
 
-Notre projet constiste à faire la présentation de l'entreprise françaaise : Capgemini. 
-Avec plusieurs pages de présentation dont l'histoire de l'entreprise, son économie, ses projets ...
+Notre projet constiste à faire la présentation de l'entreprise française : Capgemini. 
+
+Nous voulons créer un site internet contenant 5 pages : une page Accueil, qui présente l entreprise, une page Histoire qui reprend toute l'histoire de Capgemini, du début de l'entreprise à aujourd'hui, une page Activités, qui présente les différents secteurs d'activités de l'entreprise, une page Economie qui montre les finances et l'analyse économique de Capgemini, et enfin une page Projets, qui reprend tout les projets passés, actuels et futurs de l'entreprise.
