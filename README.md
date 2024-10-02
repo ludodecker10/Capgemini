@@ -2,7 +2,7 @@
 
 ## Capgemini
 
-[Présentation Capgemini](https://ludodecker10.github.io/projet/](https://ludodecker10.github.io/Capgemini/)
+[Nom du projet](https://ludodecker10.github.io/Capgemini/)
 
 ## Membres du groupe :
 
