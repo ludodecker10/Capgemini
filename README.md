@@ -107,14 +107,13 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 
 - CUINET Martin
   - Page d’accueil
-  - "Template" de page (Navbar/Footer)
   - Page histoire
 - DECASTRO--WAGNER Luca
   - Page activités
-  - Template en Z/zigzag
 - DECKER Ludovic
   - Page projets
-  - "Template" de page (Navbar/Footer)
 - CLERC-VOUILLOT Jules
   - Page économie
 
+-Templates des pages :
+  Toute l'équipe
