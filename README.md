@@ -53,9 +53,9 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fludodecker10.github.io%2FCapgemini%2FActivite.html)
 
-![capture d'écran de la conformité de la page ...](Valid_activite.png)
+![capture d'écran de la conformité de la page ...](Valid_activite.PNG)
 
-![capture d'écran sur le site https://www.ecoindex.fr/ pour tester l'eco-conception](eco_activite.png)
+![capture d'écran sur le site https://www.ecoindex.fr/ pour tester l'eco-conception](eco_activite.PNG)
 
 ### page économie
 
