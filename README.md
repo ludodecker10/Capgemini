@@ -62,6 +62,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 **Auteur : CLERC-VOUILLOT Jules**  
 
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fludodecker10.github.io%2FCapgemini%2FEconomie.html)
+![image](https://github.com/user-attachments/assets/4bb99028-d96f-4e07-82b7-0e180ddfb5db)
 
 <br>
 <img src="Valid_eco.png" width="400px" alt="capture ecran sur ecoconcept">
