@@ -33,6 +33,12 @@ body {
   margin: 0;
 }
 
+p{
+    margin: 7px;
+    padding: 5px;
+    text-align: justify;
+}
+
 footer {
   background-color: darkblue;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
