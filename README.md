@@ -28,10 +28,10 @@ Pour la conception du site, nous nous sommes grandement inspirés du site offici
 
 **Auteur : CUINET Martin**  
 
-Vérification W3C : [Détail ICI]((https://validator.w3.org/nu/?doc=https%3A%2F%2Fludodecker10.github.io%2FCapgemini%2F))
+Vérification W3C : [Détail ICI]([https://validator.w3.org/nu/?doc=https%3A%2F%2Fludodecker10.github.io%2FCapgemini%2F])
 
 
-![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
+![capture d'écran de la conformité de la page ...](Validite_index.png)
 
 ou 
 
