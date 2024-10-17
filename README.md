@@ -28,7 +28,7 @@ Pour la conception du site, nous nous sommes grandement inspirés du site offici
 
 **Auteur : CUINET Martin**  
 
-Vérification W3C : [Détail ICI]((https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html))
+Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
 
 
 ![capture d'écran de la conformité de la page ...](Validite_index.png)
