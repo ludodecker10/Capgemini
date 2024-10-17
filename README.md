@@ -77,8 +77,8 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 
 ![capture d'écran de la conformité de la page ...](Valid_projets.png)
 
-<br>
-<img src="doc/capture_1_ecoconcept.png" width="400px" alt="capture ecran sur ecoconcept">
+
+![capture d'écran de la conformité de la page ...](Ana_eco_projets.png)
 
 
 ## Répartition du travail
