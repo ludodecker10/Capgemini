@@ -51,10 +51,11 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 
 **Auteur : DECASTRO--WAGNER Luca**  
 
-Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fludodecker10.github.io%2FCapgemini%2FActivite.html)
 
+![capture d'écran de la conformité de la page ...](Valid_activite.png)
 
-
+![capture d'écran sur le site https://www.ecoindex.fr/ pour tester l'eco-conception](eco_activite.png)
 
 ### page économie
 
@@ -110,6 +111,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
   - Page histoire
 - DECASTRO--WAGNER Luca
   - Page activités
+  - Template en Z/zigzag
 - DECKER Ludovic
   - Page projets
   - "Template" de page (Navbar/Footer)
