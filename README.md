@@ -45,7 +45,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2F
 
 ![capture d'écran de la conformité de la page ...](Valid_histoire.png)
 
-![capture d'écran sur le site https://www.ecoindex.fr/ pour tester l'eco-conception](Ana_eco_histoire.png)
+![capture d'écran sur le site https://www.ecoindex.fr/ pour tester l'eco-conception](ana_eco_histoire.png)
 
 ### page activités
 
