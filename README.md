@@ -41,13 +41,11 @@ Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2
 
 **Auteur : CUINET martin**  
 
-Verification W3C : [Détail ICI]()
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fludodecker10.github.io%2FCapgemini%2Fhistoire.html)
 
-<br>
-<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur ecoconcept">
+![capture d'écran de la conformité de la page ...](Valid_histoire.png)
 
-<br>
-<img src="doc/capture_1_ecoconcept.png" width="400px" alt="capture ecran sur ecoconcept">
+![capture d'écran sur le site https://www.ecoindex.fr/ pour tester l'eco-conception](ana_eco_histoire.png)
 
 ### page activités
 
@@ -55,11 +53,8 @@ Verification W3C : [Détail ICI]()
 
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
 
-<br>
-<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur ecoconcept">
 
-<br>
-<img src="doc/capture_1_ecoconcept.png" width="400px" alt="capture ecran sur ecoconcept">
+
 
 ### page économie
 
