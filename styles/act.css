@@ -98,11 +98,11 @@ h1 {
 
 .txt_droite {
   flex: 1;
-    background-image:linear-gradient(260deg,#a60000,#ff5b5a);
-    background-position: center center;
-    color: #fff;
-    padding: 2rem;
-    border-radius: 10px;
+  background-image: linear-gradient(260deg, #a60000, #ff5b5a);
+  background-position: center center;
+  color: #fff;
+  padding: 2rem;
+  border-radius: 10px;
 }
 
 .img_droite {
@@ -114,11 +114,11 @@ h1 {
 
 .txt_gauche {
   flex: 1;
-    background-image:linear-gradient(120deg,#a60000,#ff5b5a);
-    background-position: center center;
-    color: #fff;
-    padding: 2rem;
-    border-radius: 10px;
+  background-image: linear-gradient(120deg, #a60000, #ff5b5a);
+  background-position: center center;
+  color: #fff;
+  padding: 2rem;
+  border-radius: 10px;
 }
 
 h2 {
@@ -126,8 +126,6 @@ h2 {
   text-align: center;
   margin-top: 100px;
 }
-
-
 
 footer {
   background-color: #e20000;
