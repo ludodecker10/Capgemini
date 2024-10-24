@@ -116,13 +116,6 @@ footer {
   width: 50%;
 }
 
-.img_droite {
-  display: flex;
-  flex-direction: row-reverse;
-  align-items: center;
-  margin-top: 20px;
-}
-
 .img_gauche {
   display: flex;
   flex-direction: row;
@@ -130,17 +123,28 @@ footer {
 }
 
 .txt_droite {
+  flex: 1;
+  background-image: linear-gradient(260deg, #a60000, #ff5b5a);
+  background-position: center center;
+  color: #fff;
+  padding: 2rem;
+  border-radius: 10px;
+}
+
+.img_droite {
   display: flex;
   flex-direction: row-reverse;
   align-items: center;
-  margin-top: -300px;
+  margin-top: 20px;
 }
 
 .txt_gauche {
-  display: flex;
-  flex-direction: row-reverse;
-  width: 50%;
-  margin-top: -200px;
+  flex: 1;
+  background-image: linear-gradient(120deg, #a60000, #ff5b5a);
+  background-position: center center;
+  color: #fff;
+  padding: 2rem;
+  border-radius: 10px;
 }
 
 .txt_centre {
